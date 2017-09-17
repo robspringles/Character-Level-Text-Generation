@@ -46,3 +46,7 @@ References:
 [1] https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
 
 [2] http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+
+![alt text](https://github.com/olliejday/Character-Level-Text-Generation/blob/master/trump_gen.gif "Trump speech generation example")
+
