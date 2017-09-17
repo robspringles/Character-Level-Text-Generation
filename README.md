@@ -48,5 +48,7 @@ References:
 [2] http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
 
+Trump speech generation example
+
 ![alt text](https://github.com/olliejday/Character-Level-Text-Generation/blob/master/trump_gen.gif "Trump speech generation example")
 
